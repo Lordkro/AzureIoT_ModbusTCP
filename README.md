@@ -1,0 +1,1 @@
+A quick tool to connect to a Master-Slave Modbus server (local IP currently) that lets you edit parameters at set addresses (changeable in code). This data can then be sent to an Azure IoT Device (Current format JSON)
