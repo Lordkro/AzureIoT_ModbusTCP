@@ -10,7 +10,7 @@
 
     public static class Constants
     {
-        public const string iotConnectionString = "HostName=ModbusTCP-IoTHub.azure-devices.net;DeviceId=ModBusDevice;SharedAccessKey=nL9qnx6hAB0iJdRK8HXvzvlZ0fR+f1A7GAIoTGaV378=";
+        public const string iotConnectionString = "<PUT YOUR PRIMARY AZURE CONNECTION ACCESS STRING HERE>";
     }
 
     public class ModbusData
